@@ -3,7 +3,7 @@
 - 프로그래밍 언어
   - ⭐️ Java
   - Javascript
-- 프론트엔드 기술
+- 프론트엔드 기술
   - Html + CSS
 - 백엔드 기술
   - ⭐️ Spring
